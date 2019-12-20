@@ -1,7 +1,7 @@
 #Imports
 import unidecode
 
-ini = #Caminho completo do arquivo
+ini = #Informar aqui o caminho completo do arquivo ex.: c:\arquivo.txt
 
 #Abre o arquivo indicado
 arq = open(ini,'r',encoding='utf-8').readlines()
